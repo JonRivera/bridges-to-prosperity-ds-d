@@ -10,11 +10,6 @@
 
 [Previous deployment](https://b2pmergefinal.bridgestoprosperity.dev/)
 
-[Deployed API](https://d-ds.bridgestoprosperity.dev/) 
-
-[Deployed API#2](https://d-ds-labs28.bridgestoprosperity.dev )
-
-
 # Architeture
 
 ![Welcome Video](https://github.com/Lambda-School-Labs/bridges-to-prosperity-ds-d/blob/main/assets/Flowchart.png)
