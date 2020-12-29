@@ -1,7 +1,7 @@
 # Welcome to our Repo! 
 [![Welcome Video](https://imgur.com/7gaai5K.png)](https://youtu.be/1qVVODfPtto)
-
-# Links to Deployments
+# [Link to FronEnd/BackEnd Developers GitHub:](https://github.com/JonRivera/Labs28-Bridges-D-FE?organization=JonRivera&organization=JonRivera)
+# Links to Fast API Deployments
 <p>&nbsp;</p>
 
 [Docs](https://docs.labs.lambdaschool.com/data-science/)
@@ -14,7 +14,6 @@
 
 [Deployed API#2](https://d-ds-labs28.bridgestoprosperity.dev )
 
-### Link to FronEnd/BackEnd Developers GitHub: https://github.com/JonRivera/Labs28-Bridges-D-FE?organization=JonRivera&organization=JonRivera
 
 # Architeture
 
