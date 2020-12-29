@@ -14,6 +14,8 @@
 
 [Deployed API#2](https://d-ds-labs28.bridgestoprosperity.dev )
 
+### Link to FronEnd/BackEnd Developers GitHub: https://github.com/JonRivera/Labs28-Bridges-D-FE?organization=JonRivera&organization=JonRivera
+
 # Architeture
 
 ![Welcome Video](https://github.com/Lambda-School-Labs/bridges-to-prosperity-ds-d/blob/main/assets/Flowchart.png)
