@@ -4,9 +4,8 @@
 # Links to Fast API Deployments
 <p>&nbsp;</p>
 
-[Latest deployment](https://lab28dsk.bridgestoprosperity.dev/)
-
-[Previous deployment](https://b2pmergefinal.bridgestoprosperity.dev/)
+- [Latest deployment](https://lab28dsk.bridgestoprosperity.dev/)
+- [Previous deployment](https://b2pmergefinal.bridgestoprosperity.dev/)
 
 # Architeture
 
