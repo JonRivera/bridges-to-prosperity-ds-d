@@ -4,8 +4,6 @@
 # Links to Fast API Deployments
 <p>&nbsp;</p>
 
-[Docs](https://docs.labs.lambdaschool.com/data-science/)
-
 [Latest deployment](https://lab28dsk.bridgestoprosperity.dev/)
 
 [Previous deployment](https://b2pmergefinal.bridgestoprosperity.dev/)
