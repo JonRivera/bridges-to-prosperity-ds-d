@@ -1,6 +1,8 @@
+<<<<<<< Updated upstream
 #Notebooks Clarification Points
 
 ## DATA
+# ...
 - The models created used the bridge B2P Dataset_2020.10.xlsx
 - This data was clean and broken into two data frames
     - [cleaned_dataset.csv](https://raw.githubusercontent.com/Lambda-School-Labs/bridges-to-prosperity-ds-d/main/Data/cleaned_dataset.csv)
@@ -48,3 +50,6 @@ to properly report predicitons back.
 ensure that the outcome was validated across multiple tools
 - End Result: With any modeling done on such small sample of data, I am very weary to call these predicitions. It is possible to "predict" on a very small number of items. Although the end result of the prections can be very bias towards the data it has seen, and will not be as generalizable to future data. It could see one feature, that may not be as telling, 
 and assume that leads to the end result.
+=======
+
+>>>>>>> Stashed changes
